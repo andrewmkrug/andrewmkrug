@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://resume.andrewmkrug.com](https://resume.andrewmkrug.com)
 
-- ⚡ Fun fact **I can hold a conversation on just about anything**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -39,3 +38,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/andrewmkrug"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andrewmkrug" /></a></p><br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewmkrug&show_icons=true&locale=en&layout=compact" alt="andrewmkrug" /></p>
