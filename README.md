@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/andrewmkrug](https://github.com/andrewmkrug)
 
-- 📝 I haphazardly write articles (trying to improve) on [https://andrewmkrug.com](https://www.andrewmkrug.com/)
+- 📝 I haphazardly write articles (trying to improve) on [https://www.andrewmkrug.com/](https://www.andrewmkrug.com/)
 
 - 💬 Ask me about **Selenium, Automation Testing, Speaking**
 
